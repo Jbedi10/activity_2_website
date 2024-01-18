@@ -1,7 +1,7 @@
 ---
 title: "Jacob Bedi STA 631"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Strategic Pricing Analyst looking to Advance into a career in Data Science
 site: distill::distill_website
 ---
 
