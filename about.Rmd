@@ -1,5 +1,5 @@
 ---
-title: "About this site"
+title:  "Strategic Pricing Analyst looking to Advance into a career in Data Science"
 description: |
   Strategic Pricing Analyst looking to Advance into a career in Data Science
 ---
