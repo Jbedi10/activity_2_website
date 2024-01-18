@@ -11,10 +11,10 @@ navbar:
       href: about.html
       navbar:
   left:
-  - text: Home
+  - text: "Home""
     href: index.html
-  - text: Lectures
+  - text: "Lectures""
     href: lectures.html
-  - text: Labs
+  - text: "Labs"
     href: labs.html
 output: distill::distill_article

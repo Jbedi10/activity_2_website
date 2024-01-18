@@ -1,7 +1,7 @@
 ---
 title: "About this site"
 description: |
-  Some additional details about the website
+  Strategic Pricing Analyst looking to Advance into a career in Data Science
 ---
 
 ```{r setup, include=FALSE}
