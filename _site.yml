@@ -9,12 +9,4 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-      navbar:
-  left:
-  - text: "Home""
-    href: index.html
-  - text: "Lectures""
-    href: lectures.html
-  - text: "Labs"
-    href: labs.html
 output: distill::distill_article
