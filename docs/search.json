@@ -2,19 +2,33 @@
   "articles": [
     {
       "path": "about.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "title": "Strategic Pricing Analyst looking to Advance into a career in Data Science",
+      "description": "Strategic Pricing Analyst looking to Advance into a career in Data Science",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-01-18T16:15:38-05:00"
+      "last_modified": "2024-01-18T17:08:20-05:00"
+    },
+    {
+      "path": "Article.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
+      "last_modified": "2024-01-18T17:08:21-05:00"
     },
     {
       "path": "index.html",
       "title": "Jacob Bedi STA 631",
-      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "description": "Strategic Pricing Analyst looking to Advance into a career in Data Science",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2024-01-18T16:15:38-05:00"
+      "last_modified": "2024-01-18T17:08:22-05:00"
     }
   ],
   "collections": []
